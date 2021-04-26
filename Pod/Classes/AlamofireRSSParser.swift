@@ -205,6 +205,11 @@ open class AlamofireRSSParser: NSObject, XMLParserDelegate {
                 }
             }
             
+            if (elementName == "itunes:duration") {
+                if let duration = Int(self.currentString) {
+                    currentItem.itunesDuration = duration
+                }
+            }
             
         //if we're at the top level
         } else {
