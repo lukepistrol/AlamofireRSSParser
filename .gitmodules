@@ -1,0 +1,3 @@
+[submodule "./build/checkouts/Alamofire"] 
+  path = ./build/checkouts/Alamofire
+  url = https://github.com/Alamofire/Alamofire.git
