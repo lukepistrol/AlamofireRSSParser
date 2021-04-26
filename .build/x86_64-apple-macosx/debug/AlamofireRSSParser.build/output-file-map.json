@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/lukaspistrol/Documents/2_Development/AlamofireRSSParser/.build/x86_64-apple-macosx/debug/AlamofireRSSParser.build/master.swiftdeps"
+  },
+  "/Users/lukaspistrol/Documents/2_Development/AlamofireRSSParser/Pod/Classes/AlamofireRSSParser.swift": {
+    "dependencies": "/Users/lukaspistrol/Documents/2_Development/AlamofireRSSParser/.build/x86_64-apple-macosx/debug/AlamofireRSSParser.build/AlamofireRSSParser.d",
+    "object": "/Users/lukaspistrol/Documents/2_Development/AlamofireRSSParser/.build/x86_64-apple-macosx/debug/AlamofireRSSParser.build/AlamofireRSSParser.swift.o",
+    "swiftmodule": "/Users/lukaspistrol/Documents/2_Development/AlamofireRSSParser/.build/x86_64-apple-macosx/debug/AlamofireRSSParser.build/AlamofireRSSParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukaspistrol/Documents/2_Development/AlamofireRSSParser/.build/x86_64-apple-macosx/debug/AlamofireRSSParser.build/AlamofireRSSParser.swiftdeps"
+  },
+  "/Users/lukaspistrol/Documents/2_Development/AlamofireRSSParser/Pod/Classes/RSSFeed.swift": {
+    "dependencies": "/Users/lukaspistrol/Documents/2_Development/AlamofireRSSParser/.build/x86_64-apple-macosx/debug/AlamofireRSSParser.build/RSSFeed.d",
+    "object": "/Users/lukaspistrol/Documents/2_Development/AlamofireRSSParser/.build/x86_64-apple-macosx/debug/AlamofireRSSParser.build/RSSFeed.swift.o",
+    "swiftmodule": "/Users/lukaspistrol/Documents/2_Development/AlamofireRSSParser/.build/x86_64-apple-macosx/debug/AlamofireRSSParser.build/RSSFeed~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukaspistrol/Documents/2_Development/AlamofireRSSParser/.build/x86_64-apple-macosx/debug/AlamofireRSSParser.build/RSSFeed.swiftdeps"
+  },
+  "/Users/lukaspistrol/Documents/2_Development/AlamofireRSSParser/Pod/Classes/RSSItem.swift": {
+    "dependencies": "/Users/lukaspistrol/Documents/2_Development/AlamofireRSSParser/.build/x86_64-apple-macosx/debug/AlamofireRSSParser.build/RSSItem.d",
+    "object": "/Users/lukaspistrol/Documents/2_Development/AlamofireRSSParser/.build/x86_64-apple-macosx/debug/AlamofireRSSParser.build/RSSItem.swift.o",
+    "swiftmodule": "/Users/lukaspistrol/Documents/2_Development/AlamofireRSSParser/.build/x86_64-apple-macosx/debug/AlamofireRSSParser.build/RSSItem~partial.swiftmodule",
+    "swift-dependencies": "/Users/lukaspistrol/Documents/2_Development/AlamofireRSSParser/.build/x86_64-apple-macosx/debug/AlamofireRSSParser.build/RSSItem.swiftdeps"
+  }
+}

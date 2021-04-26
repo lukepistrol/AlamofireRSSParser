@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "53c5b4a7618d38f7382b7f0057a36663"
+build_time: [1619421649, 257564000]
+inputs:
+  "/Users/lukaspistrol/Documents/2_Development/AlamofireRSSParser/Pod/Classes/AlamofireRSSParser.swift": [1619420502, 807274231]
+  "/Users/lukaspistrol/Documents/2_Development/AlamofireRSSParser/Pod/Classes/RSSFeed.swift": [1619420502, 807522291]
+  "/Users/lukaspistrol/Documents/2_Development/AlamofireRSSParser/Pod/Classes/RSSItem.swift": [1619420502, 807714801]

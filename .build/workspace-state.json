@@ -1,0 +1,1 @@
+{"object": {"artifacts": [], "dependencies": [{"basedOn": null, "packageRef": {"identity": "alamofire", "kind": "remote", "name": "Alamofire", "path": "https://github.com/Alamofire/Alamofire.git"}, "state": {"checkoutState": {"branch": null, "revision": "2777659076fda38bd4e487739ee331c7a65b5924", "version": "5.2.1"}, "name": "checkout"}, "subpath": "Alamofire"}]}, "version": 4}

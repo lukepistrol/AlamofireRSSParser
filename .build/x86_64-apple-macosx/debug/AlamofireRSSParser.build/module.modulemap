@@ -1,0 +1,4 @@
+module AlamofireRSSParser {
+    header "/Users/lukaspistrol/Documents/2_Development/AlamofireRSSParser/.build/x86_64-apple-macosx/debug/AlamofireRSSParser.build/AlamofireRSSParser-Swift.h"
+    requires objc
+}
